@@ -28,15 +28,21 @@ const mehdiHmidi = {
   location: "Tunisia 🇹🇳",
   website: "https://hmidi.tech",
   email: "mehdihmidi2008@gmail.com",
-  
+
   stack: {
-    frontend: ["React 19", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    frontend: [
+      "React 19",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion",
+    ],
     backend: ["Node.js", "Express", "Python", "REST APIs"],
     database: ["PostgreSQL", "MongoDB", "Redis"],
-    tooling: ["Vite", "Docker", "Git", "Vercel", "Cloudflare"]
+    tooling: ["Vite", "Docker", "Git", "Vercel", "Cloudflare"],
   },
 
-  philosophy: "Code. Design. Build. Repeat."
+  philosophy: "Code. Design. Build. Repeat.",
 };
 ```
 
@@ -56,10 +62,9 @@ I build clean, high-performance web applications with thoughtful interfaces, smo
 
 ### 🚀 Featured Engineering Work
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
+| Project                                            | Description                                                       | Stack                      |               Link               |
+| :------------------------------------------------- | :---------------------------------------------------------------- | :------------------------- | :------------------------------: |
 | 🌐 **[hmidi.tech Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
-| ⚡ **[Portezebi Stack](https://github.com/MehdiHmidi0/Portezebi)** | Clean modular component codebase powering high-performance frontend interfaces | React, JavaScript, Vite | [Source Code](https://github.com/MehdiHmidi0/Portezebi) |
 
 ---
 
