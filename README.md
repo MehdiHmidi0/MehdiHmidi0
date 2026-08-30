@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Sleek Capsule Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,0&height=200&section=header&text=Mehdi%20Hmidi&fontSize=48&fontAlign=50&fontAlignY=36&subtext=Full%20Stack%20Engineer%20%E2%80%A2%20UI%2FUX%20Architect%20%E2%80%A2%20Tunisia%20%F0%9F%87%B9%F0%9F%87%B3&subfontSize=16&subfontAlign=50&subfontAlignY=64" width="100%" alt="Mehdi Hmidi Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,0&height=200&section=header&text=Mehdi%20Hmidi&fontSize=48&fontAlign=50&fontAlignY=36&subtext=Full%20Stack%20Developer%20%E2%80%A2%20Tunisia%20%F0%9F%87%B9%F0%9F%87%B3&subfontSize=16&subfontAlign=50&subfontAlignY=64" width="100%" alt="Mehdi Hmidi Header" />
 
 <!-- 2. Terminal Typing SVG -->
 <a href="https://hmidi.tech/">
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- 3. Bulletproof Single-Row Badges (No newlines to prevent vertical stacking) -->
+<!-- 3. Bulletproof Single-Row Badges -->
 <div><a href="https://hmidi.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-hmidi.tech-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="mailto:mehdihmidi2008@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-mehdihmidi2008%40gmail.com-0a0a0c?style=for-the-badge&logo=gmail&logoColor=71C4FF&borderColor=71C4FF" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://img.shields.io/badge/📍_Location-Tunisia_🇹🇳-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://komarev.com/ghpvc/?username=MehdiHmidi0&color=9d4edd&style=for-the-badge&label=VIEWS" /></a></div>
 
 </div>
@@ -19,51 +19,53 @@
 
 ---
 
-### 👨‍💻 System Profile
+### 👨‍💻 System Profile & Tech Stack
 
 ```typescript
 const mehdiHmidi = {
   name: "Mehdi Hmidi",
-  role: "Full-Stack Engineer",
+  role: "Full-Stack Developer",
   location: "Tunisia 🇹🇳",
   website: "https://hmidi.tech",
   email: "mehdihmidi2008@gmail.com",
-
+  
   stack: {
-    frontend: [
-      "React 19",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS",
-      "Framer Motion",
-    ],
-    backend: ["Node.js", "Express", "Python", "REST APIs"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    tooling: ["Vite", "Docker", "Git", "Vercel", "Cloudflare"],
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Vue.js", "Svelte", "Tailwind CSS", "Vite", "HTML5", "CSS3"],
+    backendAndDevOps: ["Node.js", "Express", "Python", "NestJS", "PostgreSQL", "Supabase", "MongoDB", "Firebase", "Git"]
   },
 
-  philosophy: "Code. Design. Build. Repeat.",
+  philosophy: "Code. Design. Build. Repeat."
 };
 ```
 
-I build clean, high-performance web applications with thoughtful interfaces, smooth micro-interactions, and modern architecture. I care deeply about product feel, performance, and software engineering craftsmanship.
+I'm an **18-year-old full-stack developer** from Tunisia building clean, modern, and immersive digital experiences with clean architecture, thoughtful interfaces, and smooth interactions.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://hmidi.tech/">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,mongodb,tailwind,vite,docker,git,vercel&theme=dark" alt="Mehdi's Tech Stack" />
-  </a>
+
+#### 💻 Front-End Development
+<a href="https://hmidi.tech/">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,svelte,tailwind,vite,html,css&theme=dark" alt="Front-End Development" />
+</a>
+
+<br/><br/>
+
+#### ⚡ Back-End & DevOps
+<a href="https://hmidi.tech/">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,nestjs,postgres,supabase,mongodb,firebase,git&theme=dark" alt="Back-End & DevOps" />
+</a>
+
 </div>
 
 ---
 
-### 🚀 Featured Engineering Work
+### 🚀 Featured Work
 
-| Project                                            | Description                                                       | Stack                      |               Link               |
-| :------------------------------------------------- | :---------------------------------------------------------------- | :------------------------- | :------------------------------: |
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :---: |
 | 🌐 **[hmidi.tech Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
 
 ---
