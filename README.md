@@ -67,7 +67,7 @@ I'm an **18-year-old full-stack developer** from Tunisia building clean, modern,
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | ⚡ **[CloudCode Studio](https://cloudcode.mehdihmidi2008.workers.dev)** | Real-time collaborative browser IDE with live cursor sync & sandboxed preview | React, TypeScript, Cloudflare | [Live Demo](https://cloudcode.mehdihmidi2008.workers.dev) |
-| 🌐 **[hmidi.tech Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
+| 🌐 **[My Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
 
 ---
 
