@@ -1,144 +1,91 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- 1. Sleek Capsule Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,0&height=200&section=header&text=Mehdi%20Hmidi&fontSize=48&fontAlign=50&fontAlignY=36&subtext=Full%20Stack%20Engineer%20%E2%80%A2%20UI%2FUX%20Architect%20%E2%80%A2%20Tunisia%20%F0%9F%87%B9%F0%9F%87%B3&subfontSize=16&subfontAlign=50&subfontAlignY=64" width="100%" alt="Mehdi Hmidi Header" />
+
+<!-- 2. Terminal Typing SVG -->
 <a href="https://hmidi.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3000&pause=1000&color=C755F7&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Mehdi+Hmidi+%F0%9F%90%B5;Full+Stack+Developer+%F0%9F%92%BB;Code.+Design.+Build.+Repeat.+%E2%9C%A8;18-year-old+Developer+from+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&height=45&lines=mehdi%40dev-box%3A~%24+whoami+%E2%86%92+Full+Stack+Developer+%F0%9F%92%BB;mehdi%40dev-box%3A~%24+cat+stack.json+%E2%86%92+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;mehdi%40dev-box%3A~%24+curl+-s+https%3A%2F%2Fhmidi.tech+%E2%86%92+Code.+Design.+Build.+Repeat." alt="Terminal Typing SVG" />
 </a>
 
-<p align="center">
-  <b>Building clean, modern, and immersive digital experiences.</b>
-</p>
+<br/><br/>
 
-<!-- Quick Link Badges -->
-<p align="center">
-  <a href="https://hmidi.tech/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-hmidi.tech-0f0f0f?style=for-the-badge&logoColor=white&borderColor=c755f7" alt="Portfolio" />
-  </a>
-  <a href="mailto:mehdihmidi2008@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-mehdihmidi2008%40gmail.com-0f0f0f?style=for-the-badge&logo=gmail&logoColor=c755f7" alt="Email" />
-  </a>
-  <a href="https://github.com/MehdiHmidi0">
-    <img src="https://img.shields.io/badge/📍_Location-Tunisia_🇹🇳-0f0f0f?style=for-the-badge&logoColor=71C4FF" alt="Location" />
-  </a>
-  <a href="https://github.com/MehdiHmidi0">
-    <img src="https://komarev.com/ghpvc/?username=mehdihmidi&color=c755f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
+<!-- 3. Bulletproof Single-Row Badges (No newlines to prevent vertical stacking) -->
+<div><a href="https://hmidi.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-hmidi.tech-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="mailto:mehdihmidi2008@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-mehdihmidi2008%40gmail.com-0a0a0c?style=for-the-badge&logo=gmail&logoColor=71C4FF&borderColor=71C4FF" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://img.shields.io/badge/📍_Location-Tunisia_🇹🇳-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://komarev.com/ghpvc/?username=MehdiHmidi0&color=9d4edd&style=for-the-badge&label=VIEWS" /></a></div>
 
 </div>
 
+<br/>
+
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 System Profile
 
 ```typescript
 const mehdiHmidi = {
-  age: 18,
+  name: "Mehdi Hmidi",
+  role: "Full-Stack Engineer",
   location: "Tunisia 🇹🇳",
-  role: "Full Stack Developer",
-  portfolio: "https://hmidi.tech",
-  philosophy: "Code. Design. Build. Repeat.",
-  passions: [
-    "Clean Architecture & Thoughtful Interfaces",
-    "High-Performance Web Applications",
-    "Interactive UI/UX & Micro-Animations",
-    "Continuous Skill Refinement & Experimentation"
-  ],
-  currentFocus: "Crafting scalable full-stack apps with modern web technologies."
+  website: "https://hmidi.tech",
+  email: "mehdihmidi2008@gmail.com",
+  
+  stack: {
+    frontend: ["React 19", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend: ["Node.js", "Express", "Python", "REST APIs"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
+    tooling: ["Vite", "Docker", "Git", "Vercel", "Cloudflare"]
+  },
+
+  philosophy: "Code. Design. Build. Repeat."
 };
 ```
 
-I'm an **18-year-old full-stack developer** from Tunisia with a passion for turning ideas into meaningful digital experiences. I enjoy working across both frontend and backend, building everything from polished interfaces and interactive experiences to reliable APIs, databases, and complete web applications.
-
-> "For me, development isn't just about writing code. I care about how a product feels, how it performs, and how every detail comes together. I like keeping things clean, minimal, and purposeful while still adding the interactions and small details that make a website feel alive."
+I build clean, high-performance web applications with thoughtful interfaces, smooth micro-interactions, and modern architecture. I care deeply about product feel, performance, and software engineering craftsmanship.
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Frontend & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Backend & Database & Tools -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity & Statistics
+### 🛠️ Core Tech Stack
 
 <div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img width="490" src="https://github-readme-stats.vercel.app/api?username=mehdihmidi&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=c755f7&text_color=e0e0e0&icon_color=71C4FF&border_color=c755f7&hide_border=false" alt="Mehdi's GitHub Stats" />
-      </td>
-      <td>
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihmidi&layout=compact&theme=dark&bg_color=0f0f0f&title_color=c755f7&text_color=e0e0e0&border_color=c755f7&hide_border=false" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdihmidi&theme=dark&background=0f0f0f&ring=c755f7&fire=71C4FF&currStreakNum=c755f7&border=c755f7" alt="GitHub Streak" />
-
+  <a href="https://hmidi.tech/">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,mongodb,tailwind,vite,docker,git,vercel&theme=dark" alt="Mehdi's Tech Stack" />
+  </a>
 </div>
 
 ---
 
-### 🚀 Projects & Work
-
-Check out my full portfolio and interactive showpieces on **[hmidi.tech](https://hmidi.tech/)**.
+### 🚀 Featured Engineering Work
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Personal Portfolio** | Cyberpunk-inspired interactive portfolio featuring 3D cards & CRT warp effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
-| **Full-Stack Web Apps** | Responsive, high-performance web applications built with clean architecture | React, Next.js, Node.js, PostgreSQL | [GitHub](https://github.com/MehdiHmidi0) |
-| **Interactive UI Components** | Smooth micro-animations and custom modern design systems | Tailwind, CSS3, JavaScript | [Explore](https://hmidi.tech/) |
+| 🌐 **[hmidi.tech Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
+| ⚡ **[Portezebi Stack](https://github.com/MehdiHmidi0/Portezebi)** | Clean modular component codebase powering high-performance frontend interfaces | React, JavaScript, Vite | [Source Code](https://github.com/MehdiHmidi0/Portezebi) |
 
 ---
 
-### 📫 Let's Connect!
+### 📈 GitHub Profile Analytics
 
-<p align="center">
-  <a href="https://hmidi.tech/">
-    <img src="https://img.shields.io/badge/Website-hmidi.tech-c755f7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:mehdihmidi2008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mehdihmidi2008%40gmail.com-71C4FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MehdiHmidi0">
-    <img src="https://img.shields.io/badge/GitHub-mehdihmidi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHmidi0&theme=github_dark" alt="Mehdi's GitHub Profile Details" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mehdihmidi/mehdihmidi/output/github-contribution-grid-snake.svg" alt="Snake animation" id="snake" />
-</p>
+<br/>
 
-<p align="center">
-  <sub><i>Designed with 💜 by Mehdi Hmidi • © 2026</i></sub>
-</p>
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHmidi0&theme=github_dark" alt="Most Committed Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHmidi0&theme=github_dark" alt="Repositories per Language" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with 💜 by <b>Mehdi Hmidi</b> • <a href="https://hmidi.tech/">hmidi.tech</a></sub>
+</div>
