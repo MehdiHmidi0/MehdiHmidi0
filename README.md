@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- 3. Bulletproof Single-Row Badges -->
-<div><a href="https://hmidi.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-hmidi.tech-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="mailto:mehdihmidi2008@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-mehdihmidi2008%40gmail.com-0a0a0c?style=for-the-badge&logo=gmail&logoColor=71C4FF&borderColor=71C4FF" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://img.shields.io/badge/📍_Location-Tunisia_🇹🇳-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://komarev.com/ghpvc/?username=MehdiHmidi0&color=9d4edd&style=for-the-badge&label=VIEWS" /></a></div>
+<div><a href="https://hmidi.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-hmidi.tech-0a0a0c?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="mailto:mehdihmidi2008@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-mehdihmidi2008%40gmail.com-0a0a0c?style=for-the-badge&logo=gmail&logoColor=71C4FF&borderColor=71C4FF" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://img.shields.io/badge/📍_Location-Tunisia_🇹🇳?style=for-the-badge&logoColor=white&borderColor=9d4edd" /></a>&nbsp;<a href="https://github.com/MehdiHmidi0"><img src="https://komarev.com/ghpvc/?username=MehdiHmidi0&color=9d4edd&style=for-the-badge&label=VIEWS" /></a></div>
 
 </div>
 
