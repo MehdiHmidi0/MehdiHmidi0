@@ -66,7 +66,7 @@ I'm an **18-year-old full-stack developer** from Tunisia building clean, modern,
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🌐 **[My Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live Demo](https://hmidi.tech/) |
+| 🌐 **[My Portfolio](https://hmidi.tech/)** | Interactive showcase featuring 3D cards & CRT warp shader effects | React, Framer Motion, Vite | [Live](https://hmidi.tech/) |
 
 ---
 
